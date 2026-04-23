@@ -28,7 +28,7 @@
 
 ### 🌌 My Digital Space
 
-`- ✦ **Portfolio:** [jjoyattt.kro.kr](https://jjoyattt.kro.kr) - *Check out my latest works and experiences.*`
+# - ✦ **Portfolio:** [jjoyattt.kro.kr](https://jjoyattt.kro.kr) - *Check out my latest works and experiences.*
 - ✦ **Currently Building:** [ILITY Hub](https://forlong.notion.site/f86d6389f4b14d8aae3b44b6009f4851) - *User & Admin Web App for Web3 ecosystem.*
 - ✦ **Blog:** [jjoya.tistory.com](https:///jjoyadev.tistory.com/) - *Sharing insights on Frontend, Web3, and Automation.*
 
