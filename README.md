@@ -3,7 +3,7 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=250&section=header&text=JJOYA%20DEV&fontSize=90&animation=fadeIn&fontAlignY=38" />
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=4+Years+Frontend+Engineer;Next.js+Expert;Web3+%26+Blockchain+Enthusiast;Automating+Everything" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=F7DF1E&center=true&vCenter=true&width=435&lines=Next.js+Expert;Web3+%26+Blockchain+Enthusiast;Automating+Everything" />
 </div>
 
 ---
