@@ -28,7 +28,6 @@
 
 ### 🌌 My Digital Space
 
-- ✦ **Currently Building:** [ILITY Hub](https://forlong.notion.site/f86d6389f4b14d8aae3b44b6009f4851) - *User & Admin Web App for Web3 ecosystem.*
 - ✦ **Blog:** [jjoya.tistory.com](https://jjoya.tistory.com/) - *Sharing insights on Frontend, Web3, and Automation.*
 
 <br/>
