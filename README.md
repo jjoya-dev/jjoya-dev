@@ -4,8 +4,7 @@
 
 <div align="center">
   <h3>✨ Bridging Code and Imagination ✨</h3>
-  <p>4+ years of experience crafting seamless user experiences with <b>Frontend Technologies</b>.<br/>
-     Deeply immersed in the world of <b>Web3 & Blockchain</b>, building decentralized solutions.</p>
+  <p></p>
 </div>
 
 <br/>
