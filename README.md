@@ -3,7 +3,7 @@
   Theme  : Dark (#0D1117) · Pink #FF6B9D → Amber #FFA552 "Sunset" gradient
   Stack  : Frontend · Web3 · Automation
 
-  https://jjoya.tistory.com/
+  [https://jjoya.tistory.com/](https://jjoyadev.tistory.com/)
 -->
 
 <div align="center">
@@ -18,8 +18,8 @@
 
 <!-- ===== SOCIAL / META BADGES ===== -->
 <p>
-  <a href="https://jjoya.tistory.com">
-    <img src="https://img.shields.io/badge/Blog-jjoya.tistory.com-FF6B9D?style=for-the-badge&logo=tistory&logoColor=white&labelColor=0D1117" alt="blog" />
+  <a href="https://jjoyadev.tistory.com/">
+    <img src="https://img.shields.io/badge/Blog-jjoyadev.tistory.com-FF6B9D?style=for-the-badge&logo=tistory&logoColor=white&labelColor=0D1117" alt="blog" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=jjoya-dev&style=for-the-badge&color=FFA552&label=PROFILE+VIEWS&labelColor=0D1117" alt="views" />
   <a href="https://github.com/jjoya-dev?tab=followers">
@@ -39,7 +39,7 @@ const jjoya = {
   focus:   ["Frontend", "Web3", "Automation"],
   stack:   ["Next.js", "React", "TypeScript", "TailwindCSS"],
   web3:    ["Ethereum", "Wagmi", "Viem", "Web3.js"],
-  blog:    "https://jjoya.tistory.com",
+  blog:    "https://jjoyadev.tistory.com",
   motto:   "Bridging code and imagination, one commit at a time.",
 };
 ```
