@@ -10,7 +10,7 @@ jobs:
     steps:
       - uses: actions/checkout@v4
       - uses: gautamkrishnar/blog-post-workflow@v1
-    with:
-      feed_list: "https://api.allorigins.win/raw?url=https%3A%2F%2Fjjoyadev.tistory.com%2Frss"
-      max_post_count: 5
-      user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+        with:
+          feed_list: "https://api.allorigins.win/raw?url=https%3A%2F%2Fjjoyadev.tistory.com%2Frss"
+          max_post_count: 5
+          user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
