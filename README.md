@@ -2,8 +2,6 @@
   JJOYA · GitHub Profile README
   Theme  : Dark (#0D1117) · Pink #FF6B9D → Amber #FFA552 "Sunset" gradient
   Stack  : Frontend · Web3 · Automation
-
-  [https://jjoya.tistory.com/](https://jjoyadev.tistory.com/)
 -->
 
 <div align="center">
@@ -18,7 +16,7 @@
 
 <!-- ===== SOCIAL / META BADGES ===== -->
 <p>
-  <a href="https://jjoyadev.tistory.com/">
+  <a href="https://jjoyadev.tistory.com">
     <img src="https://img.shields.io/badge/Blog-jjoyadev.tistory.com-FF6B9D?style=for-the-badge&logo=tistory&logoColor=white&labelColor=0D1117" alt="blog" />
   </a>
   <img src="https://komarev.com/ghpvc/?username=jjoya-dev&style=for-the-badge&color=FFA552&label=PROFILE+VIEWS&labelColor=0D1117" alt="views" />
@@ -79,12 +77,57 @@ const jjoya = {
 
 <br/>
 
+## 🚀 Featured Projects
+
+<!--
+  🔧 아래 표를 본인 대표 프로젝트로 채워주세요.
+  - 비공개/조직 repo라 링크를 못 걸면 Repo 칸은 "Private"으로 두거나 줄을 지우세요.
+  - Live Demo가 있으면 배포 주소를 넣으세요 (프론트엔드는 데모가 가장 강력합니다).
+-->
+
+<table>
+  <tr>
+    <th>Project</th>
+    <th>Description</th>
+    <th>Tech</th>
+    <th>Links</th>
+  </tr>
+  <tr>
+    <td>🌱 <b>Greenbean — User Web</b></td>
+    <td>🔧 한 줄 설명 (예: 사용자용 웹 서비스 프론트엔드)</td>
+    <td>
+      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" />
+      <img src="https://img.shields.io/badge/TS-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+    </td>
+    <td>🔧 <a href="#">Demo</a> · <code>Private</code></td>
+  </tr>
+  <tr>
+    <td>🛠️ <b>Greenbean — Admin Web</b></td>
+    <td>🔧 한 줄 설명 (예: 운영자용 관리 대시보드)</td>
+    <td>
+      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" />
+      <img src="https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" />
+    </td>
+    <td>🔧 <a href="#">Demo</a> · <code>Private</code></td>
+  </tr>
+  <tr>
+    <td>⛓️ <b>🔧 Web3 Project</b></td>
+    <td>🔧 한 줄 설명 (예: 지갑 연동 DApp)</td>
+    <td>
+      <img src="https://img.shields.io/badge/Wagmi-1B1B1F?style=flat-square&logo=wagmi&logoColor=white" />
+      <img src="https://img.shields.io/badge/Viem-FFC517?style=flat-square&logo=ethereum&logoColor=black" />
+    </td>
+    <td>🔧 <a href="#">Demo</a> · <a href="#">Repo</a></td>
+  </tr>
+</table>
+
+<br/>
+
 ## 📊 GitHub Stats
 
 <div align="center">
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jjoya-dev&show_icons=true&hide_border=true&include_all_commits=true&count_private=true&bg_color=0D1117&title_color=FF6B9D&icon_color=FFA552&text_color=ffffff&ring_color=FF6B9D" alt="stats" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jjoya-dev&layout=compact&hide_border=true&include_all_commits=true&count_private=true&langs_count=8&bg_color=0D1117&title_color=FF6B9D&text_color=ffffff" alt="top langs" />
 
 <br/>
 
@@ -94,24 +137,29 @@ const jjoya = {
 
 <br/>
 
-## 🏆 Trophies
+## 🐍 Contribution Snake
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=jjoya-dev&no-frame=true&no-bg=true&column=7&margin-w=6&title_color=FF6B9D&text_color=ffffff" alt="trophies" />
+<img width="100%" src="https://raw.githubusercontent.com/jjoya-dev/jjoya-dev/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
 
 <br/>
 
-## 📈 Contribution Graph
+## 📫 Connect with Me
 
 <div align="center">
 
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=jjoya-dev&hide_border=true&bg_color=0D1117&color=FF6B9D&line=FFA552&point=ffffff&area=true&area_color=FFA552" alt="activity graph" />
-
-<!-- Snake animation — requires the GitHub Action set up (see notes below) -->
-<img width="100%" src="https://raw.githubusercontent.com/jjoya-dev/jjoya-dev/output/github-contribution-grid-snake-dark.svg" alt="snake" />
+<a href="https://jjoya.tistory.com">
+  <img src="https://img.shields.io/badge/Tistory-FF6B9D?style=for-the-badge&logo=tistory&logoColor=white" alt="tistory" />
+</a>
+<a href="mailto:devjjoya@gmail.com">
+  <img src="https://img.shields.io/badge/Email-FFA552?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
+</a>
+<a href="[https://www.linkedin.com/in/yourid](https://www.linkedin.com/in/%EC%84%B1%EA%B2%BD-%EC%A1%B0-31a3a2372">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="linkedin" />
+</a>
 
 </div>
 
