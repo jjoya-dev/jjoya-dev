@@ -1,7 +1,7 @@
 <!--
   JJOYA · GitHub Profile README
-  Theme  : Dark (#0D1117) · Pink #FF6B9D → Amber #FFA552 "Sunset" gradient
-  Strategy: 비공개 프로젝트 위주 → 데이터 대신 "다루는 영역 + 글(블로그)"로 채우기
+  Theme : Dark (#0D1117) · Pink #FF6B9D → Amber #FFA552 "Sunset" gradient
+  Focus : Frontend · Web3 · Automation
 -->
 
 <div align="center">
@@ -11,7 +11,7 @@
 
 <!-- ===== TYPING TAGLINE ===== -->
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B9D&center=true&vCenter=true&width=620&height=45&lines=Frontend+Engineer+%F0%9F%8E%A8;Web3+Builder+%E2%9B%93%EF%B8%8F;Automation+Enthusiast+%F0%9F%A4%96;Sharing+insights+on+my+blog+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=FF6B9D&center=true&vCenter=true&width=620&height=45&lines=Frontend+Engineer+%F0%9F%8E%A8;Web3+Builder+%E2%9B%93%EF%B8%8F;Automation+Enthusiast+%F0%9F%A4%96;Turning+ideas+into+interfaces+%E2%9C%A8" alt="Typing SVG" />
 </a>
 
 <br/>
@@ -31,18 +31,24 @@
 
 ## ⚡ About Me
 
-> 🎨 **사용자 경험을 코드로 옮기는** 프론트엔드 엔지니어입니다. 깔끔한 컴포넌트 설계와 성능, 그리고 Web3·자동화에 관심이 많아요.
+> 🎨 **Frontend engineer** who turns ideas into polished, performant user experiences — with a soft spot for **Web3** and **automation**.
 
 ```ts
 const jjoya = {
-  role:    "Frontend Engineer",
-  focus:   ["Frontend", "Web3", "Automation"],
-  stack:   ["Next.js", "React", "TypeScript", "TailwindCSS"],
-  web3:    ["Ethereum", "Wagmi", "Viem", "Web3.js"],
-  blog:    "https://jjoya.tistory.com",
-  motto:   "Bridging code and imagination, one commit at a time.",
+  role:   "Frontend Engineer",
+  focus:  ["Frontend", "Web3", "Automation"],
+  stack:  ["Next.js", "React", "TypeScript", "TailwindCSS"],
+  web3:   ["Ethereum", "Wagmi", "Viem", "Web3.js"],
+  blog:   "https://jjoyadev.tistory.com",
+  motto:  "Bridging code and imagination, one commit at a time.",
 };
 ```
+
+<div align="center">
+
+`🔭 Building production frontends` &nbsp;•&nbsp; `⛓️ Exploring on-chain UX` &nbsp;•&nbsp; `🌱 Always learning`
+
+</div>
 
 <br/>
 
@@ -52,15 +58,15 @@ const jjoya = {
   <tr>
     <td width="33%" align="center">
       <br/>🎨<br/><b>Frontend</b><br/><br/>
-      <sub>Next.js · React 기반의<br/>반응형·접근성 좋은 UI 설계.<br/>컴포넌트 구조와 성능에 진심.</sub><br/><br/>
+      <sub>Crafting responsive, accessible<br/>UIs with Next.js &amp; React.<br/>Obsessed with clean architecture<br/>and performance.</sub><br/><br/>
     </td>
     <td width="33%" align="center">
       <br/>⛓️<br/><b>Web3</b><br/><br/>
-      <sub>Wagmi · Viem · Ethereum으로<br/>지갑 연동과 온체인 데이터를<br/>웹과 연결하는 작업.</sub><br/><br/>
+      <sub>Bridging wallets and on-chain<br/>data to the web using<br/>Wagmi, Viem &amp; Ethereum.</sub><br/><br/>
     </td>
     <td width="33%" align="center">
       <br/>🤖<br/><b>Automation</b><br/><br/>
-      <sub>반복 작업·워크플로 자동화로<br/>중요한 일에 더 집중할 수<br/>있게 만드는 데 관심.</sub><br/><br/>
+      <sub>Streamlining repetitive workflows<br/>so the meaningful work<br/>gets the spotlight.</sub><br/><br/>
     </td>
   </tr>
 </table>
@@ -77,7 +83,7 @@ const jjoya = {
 
 <br/><br/>
 
-<!-- skillicons에 없는 Web3 전용 도구는 배지로 -->
+<!-- Web3-specific tools not in skillicons, shown as badges -->
 <img src="https://img.shields.io/badge/Ethereum-3C3C3D?style=for-the-badge&logo=ethereum&logoColor=white" alt="ethereum" />
 <img src="https://img.shields.io/badge/Wagmi-1B1B1F?style=for-the-badge&logo=wagmi&logoColor=white" alt="wagmi" />
 <img src="https://img.shields.io/badge/Viem-FFC517?style=for-the-badge&logo=ethereum&logoColor=black" alt="viem" />
@@ -89,16 +95,13 @@ const jjoya = {
 
 ## ✍️ Latest from my Blog
 
-<!--
-  티스토리 RSS에서 최신 글이 아래에 자동으로 채워집니다.
-  (.github/workflows/blog.yml 워크플로 설정 필요 — 채팅 안내 참고)
--->
+<!-- Posts are auto-filled from the Tistory RSS feed once the workflow succeeds. -->
 <!-- BLOG-POST-LIST:START -->
-- 🔧 워크플로를 설정하면 최신 글이 여기에 자동으로 표시됩니다.
+- ✨ New posts will show up here soon — meanwhile, drop by the blog for thoughts on **Frontend**, **Web3** &amp; **Automation**.
 <!-- BLOG-POST-LIST:END -->
 
 <div align="right">
-  <a href="https://jjoyadev.tistory.com"><b>→ 블로그에서 더 보기</b></a>
+  <a href="https://jjoyadev.tistory.com"><b>→ Read more on my blog</b></a>
 </div>
 
 <br/>
@@ -111,7 +114,7 @@ const jjoya = {
 
 <br/><br/>
 
-<!-- 잔디 기반이라 비공개 기여 표시(Private contributions)를 켜면 회사 작업도 반영됩니다 -->
+<!-- Snake reads the public contribution graph; enable "Private contributions" to include work repos -->
 <img width="100%" src="https://raw.githubusercontent.com/jjoya-dev/jjoya-dev/output/github-contribution-grid-snake-dark.svg" alt="snake" />
 
 </div>
@@ -125,7 +128,6 @@ const jjoya = {
 <a href="https://jjoyadev.tistory.com">
   <img src="https://img.shields.io/badge/Tistory-FF6B9D?style=for-the-badge&logo=tistory&logoColor=white" alt="tistory" />
 </a>
-<!-- 🔧 본인 것으로 채우거나, 없으면 줄 삭제 -->
 <a href="mailto:devjjoya@gmail.com">
   <img src="https://img.shields.io/badge/Email-FFA552?style=for-the-badge&logo=gmail&logoColor=white" alt="email" />
 </a>
@@ -140,6 +142,8 @@ const jjoya = {
 <div align="center">
 
 ### ✨ Bridging Code and Imagination ✨
+
+<sub><i>Thanks for stopping by — let's build something great together.</i></sub>
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FFA552,100:FF6B9D&height=120&section=footer" alt="footer" />
 
