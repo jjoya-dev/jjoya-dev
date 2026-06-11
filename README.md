@@ -52,27 +52,6 @@ const jjoya = {
 
 <br/>
 
-## 💡 What I Do
-
-<table width="100%">
-  <tr>
-    <td width="33%" align="center">
-      <br/>🎨<br/><b>Frontend</b><br/><br/>
-      <sub>Crafting responsive, accessible<br/>UIs with Next.js &amp; React.<br/>Obsessed with clean architecture<br/>and performance.</sub><br/><br/>
-    </td>
-    <td width="33%" align="center">
-      <br/>⛓️<br/><b>Web3</b><br/><br/>
-      <sub>Bridging wallets and on-chain<br/>data to the web using<br/>Wagmi, Viem &amp; Ethereum.</sub><br/><br/>
-    </td>
-    <td width="33%" align="center">
-      <br/>🤖<br/><b>Automation</b><br/><br/>
-      <sub>Streamlining repetitive workflows<br/>so the meaningful work<br/>gets the spotlight.</sub><br/><br/>
-    </td>
-  </tr>
-</table>
-
-<br/>
-
 ## 🛠️ Tech Stack
 
 <div align="center">
@@ -89,19 +68,6 @@ const jjoya = {
 <img src="https://img.shields.io/badge/Viem-FFC517?style=for-the-badge&logo=ethereum&logoColor=black" alt="viem" />
 <img src="https://img.shields.io/badge/Web3.js-F16822?style=for-the-badge&logo=web3dotjs&logoColor=white" alt="web3js" />
 
-</div>
-
-<br/>
-
-## ✍️ Latest from my Blog
-
-<!-- Posts are auto-filled from the Tistory RSS feed once the workflow succeeds. -->
-<!-- BLOG-POST-LIST:START -->
-- ✨ New posts will show up here soon — meanwhile, drop by the blog for thoughts on **Frontend**, **Web3** &amp; **Automation**.
-<!-- BLOG-POST-LIST:END -->
-
-<div align="right">
-  <a href="https://jjoyadev.tistory.com"><b>→ Read more on my blog</b></a>
 </div>
 
 <br/>
